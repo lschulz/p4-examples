@@ -1,6 +1,7 @@
 Experiments with P4, SCION and In-Band Network Telemetry
 ========================================================
 
+Repository moved to [https://github.com/netsys-lab/scion-int-p4](https://github.com/netsys-lab/scion-int-p4)
 
 Development Environment Setup
 -----------------------------
